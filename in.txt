@@ -1,0 +1,55 @@
+8 plants
+
+SunFlower Flower 12
+Rose Flower 8
+Walnut Nuts 6
+Peanut Nuts 10
+Apricot Nuts 10
+BeetRoot Roots 5
+Onion Roots 10
+Ginger Roots 30
+
+3 regions
+
+Venice
+4 plants
+SunFlower
+Rose
+Walnut
+Onion
+
+CoralReefs
+5 plants
+SunFlower
+Walnut
+Peanut
+Apricot
+BeetRoot
+
+Heaven
+5 plants
+Rose
+Peanut
+BeetRoot
+Onion
+Ginger
+
+3 Herbalists
+
+Junior
+5 Picks
+2 regions
+Venice
+Heaven
+
+Julia
+4 Picks
+3 regions
+Venice
+CoralReefs
+Heaven
+
+Sarah
+10 Picks
+1 region
+Heaven
